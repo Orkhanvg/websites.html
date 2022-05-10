@@ -1,0 +1,29 @@
+body {
+    background-color:rgb(251, 206, 177) ;
+  }
+
+.logo{
+    align-items: top;
+    align-items: left;
+    size: 600px;
+    
+}
+
+.h1{
+align-items: top;
+align-items: left;
+}
+.nav {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+  }
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}

@@ -1,0 +1,110 @@
+body {
+    background-color:rgb(251, 206, 177) ;
+  }
+
+.logo{
+    align-items: top;
+    align-items: left;
+    size: 600px;
+    
+}
+
+.h1{
+align-items: top;
+align-items: left;
+}
+.nav {
+    background-color: #333;
+    overflow: hidden;
+  }
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .tacbox {
+    display:block;
+    padding: 1em;
+    margin: 2em;
+    border: 3px solid #ddd;
+    background-color: #eee;
+    max-width: 800px;
+  }
+  
+  /* input {
+    height: 2em;
+    width: 2em;
+    vertical-align: left;
+  } */
+
+  
+
+
+
+
+
+
+
+  .navlinks {
+	margin: 0;
+	width: auto;
+	font-family: sans-serif;
+} 
+.navlinks li {
+	display:ruby;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+} 
+
+.social-media {
+	display:ruby;
+	width:120px;
+	float:left;
+	margin-left:2px;
+	border:1px solid #000;
+} 
+.navlinks a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+	background-color:#fff;
+	color:rgb(134, 173, 28);
+} 
+
+
+.navlinks a:hover {
+	background-color:#009;
+	color:#fff;
+} 
+.business_brand{
+    display: inline;
+    width: 150px;
+    float: left;
+    margin-left: 5px;
+
+}
